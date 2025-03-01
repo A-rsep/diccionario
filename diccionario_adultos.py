@@ -2,7 +2,11 @@ meme_dict = {
             "CRINGE": "algo excepcionalmente raro o embarazoso",
             "LOL": "una respuesta común a algo gracioso",
             "VOID": "algo que tiene un contexto turbio",
-            "SKIBIDI": "es una palabra que hace referencia a una serie animada web, no tiene un significado como tal"
+            "SKIBIDI": "es una palabra que hace referencia a una serie animada web, no tiene un significado como tal",
+            "ROFL": "una respuesta a una broma",
+            "SHEESH": "una ligera desaprobación",
+            "CREEPY": "algo aterrador, siniestro",
+            "AGGRO": "ponerse agresivo o enojado"
             }
 
 word = input("Escribe una palabra que no entiendas: ").upper()
